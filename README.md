@@ -1,9 +1,9 @@
-# RADIUSS Roadmap
+# RSE-ops Roadmap
 
-![img/radiuss-roadmap.png](img/radiuss-roadmap.png)
+![img/rse-ops-roadmap.png](img/rse-ops-roadmap.png)
 
-Welcome to the RADIUSS roadmap repository! In [issues](https://github.com/rse-radiuss/roadmap/issues)
-you will find small projects that we consider on our roadmap. In [Discussions](https://github.com/rse-radiuss/roadmap/discussions/1) you will find ideas we are hashing out, and you are free to open a new discussion
+Welcome to the RSE-ops roadmap repository! In [issues](https://github.com/rse-ops/roadmap/issues)
+you will find small projects that we consider on our roadmap. In [Discussions](https://github.com/rse-ops/roadmap/discussions/1) you will find ideas we are hashing out, and you are free to open a new discussion
 with an idea that you might have.
 
 
